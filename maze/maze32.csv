@@ -1,0 +1,8 @@
+block, #80ffff
+target, #ff0000
+source, #ffff80
+path, #ff80c0
+expanded, #b3b3cc
+exit, #00ff00
+empty, #ffffff
+border, #000000
