@@ -4,10 +4,9 @@
 
 [<img src="/snapshots/GUI.png" width="256" height="256">](./snapshots/GUI.png)
 [<img src="/snapshots/Customize.png" width="256" height="256">](./snapshots/Customize.png)
-[<img src="/snapshots/Colour Picker.png" width="256" height="256">](./snapshots/Colour Picker.png)
-
+[<img src="/snapshots/ColourPicker.png" width="256" height="256">](./snapshots/ColourPicker.png)
 [<img src="/snapshots/Resize.png" width="256" height="256">](./snapshots/Resize.png)
-[<img src="/snapshots/Generate Maze.png" width="256" height="256">](./snapshots/Generate Maze.png) 
+[<img src="/snapshots/GenerateMaze.png" width="256" height="256">](./snapshots/GenerateMaze.png) 
 [<img src="/snapshots/Path.png" width="256" height="256">](./snapshots/Path.png) 
 
 [//]: # ([<img src="/snapshots/Running.png" width="256" height="256">]&#40;./snapshots/Running.png&#41; )
@@ -41,11 +40,8 @@ while the GUI is in [GUI.py](GUI.py)
 
 ### Maze Generated :
 
-[<img src="/snapshots/maze64 screenshot.png" width="256" height="256">](./snapshots/maze64 screenshot.png)
-[<img src="/snapshots/maze128 screenshot.png" width="256" height="256">](./snapshots/maze128 screenshot.png)
-
-
-
+[<img src="/snapshots/maze64screenshot.png" width="256" height="256">](./snapshots/maze64screenshot.png)
+[<img src="/snapshots/maze128screenshot.png" width="256" height="256">](./snapshots/maze128screenshot.png)
 
 | Modules               | Usage                                                           |
 |:----------------------|:----------------------------------------------------------------|
